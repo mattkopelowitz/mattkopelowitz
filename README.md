@@ -2,8 +2,7 @@
 
 
 
-- 🏫 I’m currently finishing my degree in Computer Science at the University of Florida
-- 🎓 I will be graduating in December
+- 🎓 I graduated from the Herbert Wertheim College of Engineering at the University of Florida with a degree in Computer Science
 - 🖥️ You can find some of my past projects below
 - 📫 You can reach me by email mattkopelowitz@gmail.com
 
