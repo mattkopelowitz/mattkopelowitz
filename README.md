@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Matt Kopelowitz
 
 ## 💫 About Me:
-🔭 I’m currently looking for an Entry Level position in either Software Engineering, Cybersecurity, or AI
-🌱 I’m currently learning Machine Learning and Neural Networks
-🎓 I graduated from the Herbert Wertheim College of Engineering at the University of Florida with a degree in Computer Science
-🖥️ You can find some of my past projects below
+🔭 I’m currently looking for an Entry Level position in either Software Engineering, Cybersecurity, or AI<br>
+🌱 I’m currently learning Machine Learning and Neural Networks<br>
+🎓 I graduated from the Herbert Wertheim College of Engineering at the University of Florida with a degree in Computer Science<br>
+🖥️ You can find some of my past projects below<br>
 📫 You can reach me by email mattkopelowitz@gmail.com
 
-## 🌐 Socials:
+## 🌐 Connect With Me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattkopelowitz) 
 
 ## 💻 Tech Stack:
