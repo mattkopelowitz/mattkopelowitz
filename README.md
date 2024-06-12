@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently looking for an Entry Level position in either Software Engineering, Cybersecurity, or AI<br>
-🌱 I’m currently learning Vue and Web Dev<br>
+🌱 I’m currently learning Vue and backend development<br>
 🎓 I graduated from the Herbert Wertheim College of Engineering at the University of Florida with a degree in Computer Science<br>
 🖥️ You can find some of my past projects below<br>
 📫 You can reach me by email mattkopelowitz@gmail.com
