@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🔭 I’m currently looking for an Entry Level position in either Software Engineering, Cybersecurity, or AI<br>
-🌱 I’m currently learning fullstack development<br>
+🌱 I’m currently learning AWS and CI/CD<br>
 🎓 I graduated Cum Laude from the Herbert Wertheim College of Engineering at the University of Florida with a degree in Computer Science<br>
 🖥️ You can find some of my past projects below<br>
 📫 Best way to reach me is by email mattkopelowitz@gmail.com
